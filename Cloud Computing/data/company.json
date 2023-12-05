@@ -1,0 +1,33 @@
+{
+    "companny" : [
+        {
+            "company-name" : "PT Teralink Lintas Teknologi",
+            "location" : "Jakarta Timur, Jakarta Raya",
+            "about" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+
+        {
+            "company-name" : "PT Sentra Agronusa Bhakti",
+            "location" : "Surabaya, Jawa Timur",
+            "about" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+
+        {
+            "company-name" : "PT Mitracomm Ekasarana ",
+            "location" : "Balikpapan Kota, Kalimantan Timur",
+            "about" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+
+        {
+            "company-name" : "PT MITA MANTARI",
+            "location" : "Bekasi, Jawa Barat",
+            "about" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+
+        {
+            "company-name" : "PT Winn Appliance ",
+            "location" : "Semarang, Jawa Tengah",
+            "about" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+    ]
+}

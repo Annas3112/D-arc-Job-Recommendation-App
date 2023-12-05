@@ -1,0 +1,53 @@
+{
+    "job":[
+        {
+         "job_title" : "Admin",
+         "company" : "PT Teralink Lintas Teknologi",
+         "job_location" : "Jakarta Timur, Jakarta Raya",
+         "job_status" : "Penuh Waktu",
+         "min_salary" : 4500000,
+         "max_salary" : 5000000,
+         "desc_and_reqt" : "Qualifications & experience Minimal D3 Pengalaman minimal 3 tahun Usia dibawah 28 tahun Tasks & responsibilities Menguasai Microsoft Office, Word dan Excel Skill komunikasi dan interpersonal yang baik Jujur, disiplin, teliti dan mampu bekerjasama dalam team Menguasai Bahasa Inggris menulis dan membaca Benefits BPJS Ketenagakerjaan Uang Makan & Pulsa"
+        },
+
+        {
+            "job_title" : "Sales & Marketing Support Staff",
+            "company" : "PT Sentra Agronusa Bhakti",
+            "job_location" : "Surabaya, Jawa Timur",
+            "job_status" : "Penuh Waktu",
+            "min_salary" : 4500000,
+            "max_salary" : 4800000,
+            "desc_and_reqt" : "Deskripsi pekerjaan: Mendukung kebutuhan operasional dan administratif tim sales & marketing (maintain database pelanggan, pembuatan kontrak penjualan, faktur penjualan, pengiriman dokumen ke pelanggan, dll). Menyiapkan kebutuhan promo atau event sales & marketing, baik konten media sosial, material promo dan logistik untuk event, dan kebutuhan lain yang diperlukan oleh tim. Berkomunikasi dengan pelanggan secara rutin terkait program sales & marketing. Menyiapkan laporan sesuai kebutuhan perusahaan.  Kualifikasi: Minimal Pendidikan D3 semua jurusan Memiliki kemampuan copywriting/surat menyurat yang baik. Pengalaman posisi setara minimal 2 tahun di bidang distribusi Menguasi Microsoft office (terutama Excel untuk pengolahan data) Lebih diutamakan bila memiliki kemampuan design (minimal familiar dengan program Canva) Mampu berkomunikasi dengan baik (secara lisan dan tertulis) Jujur, teliti dan cepat tanggap Bersedia bekerja di luar jam kantor (ikut customer visit, event lapangan, dll) dan melakukan perjalanan dinas luar kota/luar pulau."
+        },
+
+        {
+            "job_title" : "Admin Balikpapan",
+            "company" : "PT Mitracomm Ekasarana",
+            "job_location" : "Balikpapan Kota, Kalimantan Timur",
+            "job_status" : "Penuh waktu",
+            "min_salary" : 3000000,
+            "max_salary" : 4000000,
+            "desc_and_reqt" : "KUALIFIKASI :Usia Max 30 tahunPendidikan Min D3/S1 Memiliki pengalaman dibidang Admin minimal 6 bulan Menguasai rumus Excel (Hlookup, Vlookup, Pivod, dan IF) Diutamakan berdomisili di Balikpapan Penempatan Balikpapan JOBDESK :Membuat Reporting Membuat report KPI MPC dan CSO. Menyerahkan KPI DSE/CSO ke Sales Area dan MPC Bertanggung jawab untuk memetakan DSE/CSO Review & penyeimbangan target KPI RSE/CSO Update data personal CSO setiap bulan untuk CSO insentif Membuat data materi untuk pertemuan Meeting Berkoordinasi dengan unit kerja internal & eksternal (MPC/outlet)"
+        },
+
+        {
+            "job_title" : "Staff Admin Gudang / Warehouse",
+            "company" : "PT MITA MANTARI",
+            "job_location" : "Bekasi, Jawa Barat",
+            "job_status" : "Penuh Waktu",
+            "min_salary" : 3840000,
+            "max_salary" : 4900000,
+            "desc_and_reqt" : "About usPT Mita Mantari, didirikan pada 1987, merupakan perusahaan distribusi dan ritel furnishing untuk kantor dan ruang komersial di Indonesia. Dengan distribusi ke seluruh area Indonesia, PT Mita Mantari menyediakan beragam produk dengan kualitas utama dan pelayanan optimal yang menjamin kepuasan pelanggan. Qualifications & experience Lulusan Minimal SMA Mengerti Software Accurate Teliti, Rajin, Cekatan Bertanggung jawab Dapat berkomunikasi dengan baik Memiliki pengalaman di bidang yang sama minimal 1-2 tahun Tasks & responsibilities Menerima barang masuk Memeriksa jumlah dan kualitas barang Mencocokan jumlah dengan PO Membuat laporan penerimaan barang Input di program yang telah disediakan Membuat surat jalan pengiriman Cek jumlah dengan surat jalan yang dimuatEvaluasi hasil pengiriman Membuat Laporan Stok Benefits Uang Makan Hari Kerja (Senin - Sabtu)"
+        },
+
+        {
+            "job_title" : "Staff Admin Gudang",
+            "company" : "PT Winn Appliance",
+            "job_location" : "Semarang, Jawa Tengah",
+            "job_status" : "Kontrak",
+            "min_salary" : 3000000,
+            "max_salary" : 3500000,
+            "desc_and_reqt" : "Kualifikasi: Memiliki pengalaman kerja minimal 1 tahun Lulusan SMA, D3, S1 & sederajat Menguasai Microsoft Office (Word dan Excel) Umur maksimal 30 Tahun Dapat menghandle kerja lapangan Memahami menghitung stok barang Memahami alur perhitungan stok opname gudang Siap Bekerja dibawah tekananBisa Ms.Offfice Teliti, rapi dan cekatan Minimal Sudah Vaksin Covid Dosis ketiga(3) Akan ada training Penempatan di Semarang-Jawa Tengah Tugas Pekerjaan: Mengerjakan Stok barang setiap hari dan setiap bulan Mencatat pengeluaran dan masukan barang setiap hari Membuat dan melakukan laporan stok opname setiap bulan Membuat PO, surat jalan Mengecek ketersediaan stok produk secara berkala dan melakukan pemesanan produk sesuai kebutuhan dan sesuai dengan standard yang telah ditentukan Membuat laporan pemakaian produk Menghandle pekerjaan di gudang"
+        }
+    ]
+}
