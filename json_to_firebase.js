@@ -36,6 +36,5 @@ const addCompaniesToFirestore = async () => {
   }
 };
   
-  // Run the function to add company to Firestore
   addJobsToFirestore();
   addCompaniesToFirestore();

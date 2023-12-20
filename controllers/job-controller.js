@@ -2,7 +2,6 @@
 
 const {firestore} = require('./firebase');
 const jobCol = firestore.collection('jobs');
-// const models = require('../data/saved-jobs');
 const savedJobsCol = firestore.collection('saved_jobs');
 
 const getAllJob = async (req, res, next) => {

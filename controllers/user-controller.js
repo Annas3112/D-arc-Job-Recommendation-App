@@ -28,7 +28,6 @@ const addUser = async (req, res, next) => {
       });
     }
 
-    // Generate user_id
     const user_id = generateUniqueId();
 
     const hashedPassword = await bcrypt.hash(data.password, 10);
@@ -52,33 +51,6 @@ const addUser = async (req, res, next) => {
     });
   }
 };
-
-// const register = async (req, res, next) => {
-//   const user = {
-//     username: req.body.username,
-//     email: req.body.email,
-//     phone_number: req.body.phone_number,
-//     password: req.body.password,
-//     emailVerified: false,
-//     disable: false,
-//   };
-
-//   try {
-//     const userRecord = await admin.auth().createUser(user);
-//     console.log('Successfully created new user:', userRecord.uid);
-//     return res.status(200).send({
-//       'error': false,
-//       'message': 'User register success',
-//       'uid': userRecord.uid,
-//     });
-//   } catch (error) {
-//     console.error('Error creating new user:', error);
-//     return res.status(400).send({
-//       'error': true,
-//       'message': 'Error creating new user',
-//     });
-//   }
-// };
 
 const login = async (req, res, next) => {
     const reqUser = {
@@ -105,7 +77,6 @@ const login = async (req, res, next) => {
       }
       const userData = userDoc.data();
   
-      // Validate the password (You should use a more secure method, like bcrypt)
       if (userData.password !== reqUser.password) {
         return res.status(400).send({
           'error': true,
@@ -126,8 +97,6 @@ const login = async (req, res, next) => {
       });
     }
   };
-  
-  
 
 module.exports = {
   addUser,

@@ -1,6 +1,5 @@
 'use strict';
 
-// const firebaseConfig = require('../firebase_config');
 const {firestore} = require('./firebase');
 const models = require('../data/user-data');
 const userDataCol = firestore.collection('users-data');
