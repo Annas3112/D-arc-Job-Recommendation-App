@@ -1,33 +1,112 @@
 {
-    "companny" : [
+    "company" : [
         {
-            "company-name" : "PT Teralink Lintas Teknologi",
+            "company_name" : "PT Teralink Lintas Teknologi",
             "location" : "Jakarta Timur, Jakarta Raya",
-            "about" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "comp_field" : "Asisten Administratif (Administrasi & Dukungan Perkantoran)"
         },
 
         {
-            "company-name" : "PT Sentra Agronusa Bhakti",
+            "company_name" : "PT Sentra Agronusa Bhakti",
             "location" : "Surabaya, Jawa Timur",
-            "about" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "comp_field" : "Asisten Administratif (Administrasi & Dukungan Perkantoran)"
         },
 
         {
-            "company-name" : "PT Mitracomm Ekasarana ",
+            "company_name" : "PT Indo Seungli Makmur",
+            "location" : "Jakarta Pusat, Jakarta Raya",
+            "comp_field" : "Pengembangan Bisnis Baru (Penjualan)"
+        },
+
+        {
+            "company_name" : "PT Mitracomm Ekasarana",
             "location" : "Balikpapan Kota, Kalimantan Timur",
-            "about" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "comp_field" : "Asisten Administratif (Administrasi & Dukungan Perkantoran)"
         },
 
         {
-            "company-name" : "PT MITA MANTARI",
+            "company_name" : "Skincara",
+            "location" : "Tangerang Regency, Banten",
+            "comp_field" : "Pergudangan, Penyimpanan & Distribusi (Manufaktur, Transportasi & Logistik)"
+        },
+
+        {
+            "company_name" : "PT.MITA MANTARI",
             "location" : "Bekasi, Jawa Barat",
-            "about" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "comp_field" : "Pergudangan, Penyimpanan & Distribusi (Manufaktur, Transportasi & Logistik)"
         },
 
         {
-            "company-name" : "PT Winn Appliance ",
+            "company_name" : "PT Winn Appliance ",
             "location" : "Semarang, Jawa Tengah",
-            "about" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            "comp_field" : "Pergudangan, Penyimpanan & Distribusi (Manufaktur, Transportasi & Logistik)"
+        },
+
+        {
+            "company_name" : "PT Mega Central Finance",
+            "location" : "Jakarta Barat, Jakarta Raya",
+            "comp_field" : "Perekrutan – Agen (Sumber Daya Manusia & Perekrutan)"
+        },
+
+        {
+            "company_name" : "PT Ometraco Arya Samanta",
+            "location" : "Jakarta Barat, Jakarta Raya",
+            "comp_field" : "Asisten Pribadi, Asisten Eksekutif & Sekretarial (Administrasi & Dukungan Perkantoran)"
+        },
+
+        {
+            "company_name" : "PT Kibarer Properti Bali",
+            "location" : "North Kuta, Bali",
+            "comp_field" : "Resepsionis (Administrasi & Dukungan Perkantoran)"
+        },
+
+        {
+            "company_name" : "PT PACIFIC REFUTO SYSTEM",
+            "location" : "Cirebon, Jawa Barat",
+            "comp_field" : "Pergudangan, Penyimpanan & Distribusi (Manufaktur, Transportasi & Logistik)"
+        },
+
+        {
+            "company_name" : "PT Pro Energi",
+            "location" : "Samarinda, Kalimantan Timur",
+            "comp_field" : "Asisten Administratif (Administrasi & Dukungan Perkantoran)"
+        },
+
+        {
+            "company_name" : "PT Mangrove Data Group",
+            "location" : "West Denpasar, Bali",
+            "comp_field" : "Entri Data & Pengolahan Kata (Administrasi & Dukungan Perkantoran)"
+        },
+
+        {
+            "company_name" : "PT Trinusa Travelindo",
+            "location" : "Jakarta Raya",
+            "comp_field" : "Teknik – Perangkat Lunak (Teknologi Informasi & Komunikasi)"
+        },
+
+        {
+            "company_name" : "Company Confidential",
+            "location" : [
+                {"list1" : "Bandung, Jawa Barat"},
+                {"list2" : "Jakarta Raya"}
+            ],
+            "comp_field" : [
+                {"list1" : "Pengembangan Bisnis Baru (Penjualan)"},
+                {"list2" : "Teknik – Perangkat Lunak (Teknologi Informasi & Komunikasi)"},
+                {"list3" : "Developer/Programmer (Teknologi Informasi & Komunikasi)"}
+            ]
+        },
+
+        {
+            "company_name" : "PT Indocyber Global Teknologi",
+            "location" : "Jakarta Raya",
+            "comp_field" : "Developer/Programmer (Teknologi Informasi & Komunikasi)"
+        },
+
+        {
+            "company_name" : "PT Appfuxion Consulting",
+            "location" : "Jakarta Raya",
+            "comp_field" : "Developer/Programmer (Teknologi Informasi & Komunikasi)"
         }
     ]
 }

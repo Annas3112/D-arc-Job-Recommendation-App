@@ -1,3 +1,9 @@
+'use strict';
+const dotenv = require('dotenv');
+const assert = require('assert');
+
+dotenv.config();
+
 const {
     PORT,
     HOST,
@@ -13,7 +19,7 @@ const {
   assert(PORT, 'Port is required');
   assert(HOST, 'Host is required');
   
-  export default {
+  module.exports = {
     port: PORT,
     host: HOST,
     hostUrl: HOST_URL,
@@ -24,5 +30,5 @@ const {
       storageBucket: STORAGE_BUCKET,
       messagingSenderId: MESSAGING_SENDER_ID,
       appId: APP_ID,
-    },
+    }
   };

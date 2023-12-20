@@ -17,6 +17,6 @@ class user {
         this.start_edu = start_edu;
         this.grad_edu = grad_edu;
         this.cv = cv;
-        this.seritivicate = seritivicate;
+        this.sertivicate = sertivicate;
     }
 }
