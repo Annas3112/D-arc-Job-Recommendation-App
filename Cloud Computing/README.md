@@ -10,7 +10,7 @@ Backend API for D'arc Application
 
 ## Cloud Architecture
 
-![Logo](https://drive.google.com/file/d/1dQPyDvzoSigFrgwtCOAejUyoRdgGnpK3/view?usp=sharing)
+![Logo](https://github.com/Annas3112/D-arc-Job-Recommendation-App/blob/main/Cloud%20Computing/D'arc%20Cloud%20Architecture.jpg)
 
 For the architecture we chose Cloud Run as the platform for deploying APIs and Machine Learning models, while Container Registry is used to store Dockerfiles to simplify container management.
 
